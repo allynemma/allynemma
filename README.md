@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Allyne
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C, JavaScript, HMTL, CSS and React
 <!--- 📫 Reach me: allyne.mariana@gmail.com-->
 
 <!---
