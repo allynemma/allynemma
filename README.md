@@ -1,19 +1,24 @@
-# 🇧🇷
 ## Sobre mim:
 - 👋 Olá, meu nome é Allyne!
 - 👩‍💻 Eu amo estudar, estou sempre buscando novos conhecimentos, ou me aprofundando nos que eu já conheço.
+
+## Informações sobre meu GitHub :
+[![card](https://github-readme-stats.vercel.app/api?username=allynemma&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### Linguagens mais utilizadas:
+[![allynemma](https://github-readme-stats.vercel.app/api/top-langs/?username=allynemma&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## Minhas habilidades:
-- JavaScript;
-- C;
-- HTML;
-- CSS;
-- React;
-## Currículo:
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 🗒️ Currículo:
 - [Allyne Alves](https://allynemma.github.io/resume/).
 ## Encontre-me em:
-- [LinkedIn](www.linkedin.com/in/allynealves).
+- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](www.linkedin.com/in/allynealves)
 
-# 🇺🇸
+<!--# 🇺🇸
 ## About me:
 - 👋 Hi, I’m Allyne!
 - 👩‍💻 I love to study. To acquire knowledge is my passion.
@@ -27,7 +32,7 @@
 - React;
 
 📫 Reach me: allynemmalves@gmail.com
-
+-->
 
 <!---
 allynemma/allynemma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
