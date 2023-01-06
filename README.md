@@ -15,8 +15,8 @@
 ## 🗒️ Currículo:
 - [Allyne Alves](https://allynemma.github.io/resume/).
 ## Encontre-me em:
-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](www.linkedin.com/in/allynealves)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/allynealves)
 
 <!--# 🇺🇸
 ## About me:
