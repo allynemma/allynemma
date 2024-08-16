@@ -18,9 +18,9 @@
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
-
+<!--
 ## 🗒️ Currículo:
-- [Allyne Alves](https://allynemma.github.io/resume/).
+- [Allyne Alves](https://allynemma.github.io/resume/).-->
 ## Encontre-me em:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/allynealves)
